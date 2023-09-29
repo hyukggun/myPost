@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "684124487369",
+    "project_id": "mypost-791e2",
+    "storage_bucket": "mypost-791e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684124487369:android:1416db98a06df2aa401718",
+        "android_client_info": {
+          "package_name": "com.hyukggun.mypost"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmTu6nBcpmY35DIutl44QsMSSpMDGPWC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
